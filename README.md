@@ -17,10 +17,10 @@
 ## :toolbox: My Tools
 
 
+<a href="https://www.w3schools.com/c/" target="_blank"> ![C](https://img.shields.io/badge/C%20Language-purple?style=for-the-badge&logo=c&logoColor=white)</a>
 <a href="https://www.w3schools.com/cpp/" target="_blank"> ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)</a>
 <a href="https://www.java.com/en/" target="_blank"> ![Java](https://img.shields.io/badge/Java-F05032?style=for-the-badge&logo=java&logoColor=white)</a>
 <a href="https://www.python.org/" target="_blank"> ![Python](https://img.shields.io/badge/Python-339933?style=for-the-badge&logo=python&logoColor=green)</a>
-<a href="https://www.w3schools.com/c/" target="_blank"> ![C](https://img.shields.io/badge/C%20Language-purple?style=for-the-badge&logo=c&logoColor=white)</a>
 <a href="https://www.w3schools.com/html/" target="_blank"> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)</a>
 <a href="https://www.w3schools.com/css/" target="_blank"> ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)</a>
 <a href="https://getbootstrap.com/" target="_blank"> ![Bootstrap](https://img.shields.io/badge/Bootstrap-8712FB?&style=for-the-badge&logo=bootstrap&logoColor=white)</a>
