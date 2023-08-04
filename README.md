@@ -12,7 +12,7 @@
 ## About me:
 
 - :telescope: I'm currently Learning Full Stack Development
-- :mailbox: Contact me at ** arbaj2002@gmail.com**
+- :mailbox: Contact me at ** arbajmomin11@gmail.com**
 
 ## :toolbox: My Tools
 
@@ -34,13 +34,13 @@
 
 
 ## 💻: Coding Platform
-<a href="https://leetcode.com/0Matin0/" target="_blank"> ![Leetcode](https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=black)</a>
-<a href="https://auth.geeksforgeeks.org/user/_matin_/practice" target="_blank"> ![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-white?style=for-the-badge&logo=geeksforgeeks&logoColor=339933)</a>
+<a href="https://leetcode.com/Arbaj_SM/" target="_blank"> ![Leetcode](https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=black)</a>
+<a href="https://auth.geeksforgeeks.org/user/arbajmomin00/practice" target="_blank"> ![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-white?style=for-the-badge&logo=geeksforgeeks&logoColor=339933)</a>
 
 ## :incoming_envelope: Reach Me
 
-<a href="mailto:shaikharbaj2002@gmail.com"> ![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/matin-shaikh3230/" target="_blank"> ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:arbajmomin11@gmail.com"> ![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/arbajmomin/" target="_blank"> ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
 <table  align=center>
