@@ -11,25 +11,17 @@
 
 ## About me:
 
-- :telescope: I'm currently Learning Full Stack Development
-- :mailbox: Contact me at ** arbajmomin11@gmail.com**
+ :telescope: Hello! I'm a passionate Java Full Stack Developer currently working as a Junior Software Engineer at Epam Systems in Hyderabad. With a strong foundation in programming and software development, I have honed my skills in a wide range of technologies.
+ <br><br>Contact Me<br>Feel free to reach out to me for collaborations or any interesting opportunities. You can contact me at:<br><br>📧 Email: arbajmomin11@gmail.com<br>Let's connect and build something amazing together!
 
-## :toolbox: My Tools
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=Hibernate&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=arbaj2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=arbaj2002&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arbaj2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-<a href="https://www.w3schools.com/c/" target="_blank"> ![C](https://img.shields.io/badge/C%20Language-purple?style=for-the-badge&logo=c&logoColor=white)</a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"> ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)</a>
-<a href="https://www.java.com/en/" target="_blank"> ![Java](https://img.shields.io/badge/Java-F05032?style=for-the-badge&logo=java&logoColor=white)</a>
-<a href="https://www.python.org/" target="_blank"> ![Python](https://img.shields.io/badge/Python-339933?style=for-the-badge&logo=python&logoColor=green)</a>
-<a href="https://www.w3schools.com/html/" target="_blank"> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)</a>
-<a href="https://www.w3schools.com/css/" target="_blank"> ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)</a>
-<a href="https://getbootstrap.com/" target="_blank"> ![Bootstrap](https://img.shields.io/badge/Bootstrap-8712FB?&style=for-the-badge&logo=bootstrap&logoColor=white)</a>
-<a href="https://www.javascript.com/" target="_blank"> ![Javascript](https://img.shields.io/badge/JavaScript-fcdc00?style=for-the-badge&logo=javascript&logoColor=black)</a>
-<a href="https://www.java.com/en/" target="_blank"> ![PHP](https://img.shields.io/badge/php-F05032?style=for-the-badge&logo=php&logoColor=white)</a>
-<a href="https://www.mysql.com/" target="_blank"> ![Mysql](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=black)</a>
-<a href="https://www.mongodb.com/" target="_blank"> ![MongoDB](https://img.shields.io/badge/MongoDB-339933?style=for-the-badge&logo=mongodb&logoColor=white)</a>
-<a href="https://www.reactjs.org/" target="_blank"> ![ReactJs](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=black)</a>
-<a href="https://nodejs.org/en/" target="_blank"> ![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)</a>
 
 
 
@@ -60,6 +52,20 @@
   </tr>  
 
 </table>
+
+
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=arbaj2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=arbaj2002&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arbaj2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=arbaj2002&icon=0&color=8)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 <table align=center>
