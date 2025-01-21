@@ -29,51 +29,9 @@
 <a href="https://leetcode.com/Arbaj_SM/" target="_blank"> ![Leetcode](https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=leetcode&logoColor=black)</a>
 <a href="https://auth.geeksforgeeks.org/user/arbajmomin00/practice" target="_blank"> ![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-white?style=for-the-badge&logo=geeksforgeeks&logoColor=339933)</a>
 
-## :incoming_envelope: Reach Me
+## :incoming_envelope: Reach out to me 
 
 <a href="mailto:arbajmomin11@gmail.com"> ![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/arbajmomin/" target="_blank"> ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
-<table  align=center>
-  <tr>
-    <td align=center>
-     <a href="https://github.com/arbaj2002">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arbaj2002&show_icons=true&layout=compact&locale=en&theme=dark" alt="matin-shaikh" />
-  </a>
-    </td>
-    
-  <td align=center> 
-    <a href="https://github.com/arbaj2002/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=arbaj2002&show_icons=true&locale=en&theme=dark" alt="matin-shaikh" />
-  </a>
-    </td>
-   
-  </tr>  
-
-</table>
-
-
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arbaj2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=arbaj2002&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arbaj2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=arbaj2002&icon=0&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-<table align=center>
-  <tr>
-     <td align=center> 
-    <a href="https://github.com/arbaj2002">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arbaj2002&layout=compact&theme=dark" alt="arbaj2002" />
-  </a>
-        </td>
-  </tr>
-  </table>
